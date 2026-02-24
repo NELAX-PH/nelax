@@ -192,7 +192,7 @@ While we take reasonable precautions:
 
 You may request deletion of your data:
 
-- **Request Process**: Email privacy@nelax.ph or use account deletion feature
+- **Request Process**: Email nelax.mail@protonmail.com or use account deletion feature
 - **Processing Time**: Within 30 days of request
 - **Retained Data**: Limited to legal requirements and accounting purposes
 
@@ -297,7 +297,7 @@ You may:
 
 To exercise your rights:
 
-- **Email Us**: privacy@nelax.ph
+- **Email Us**: nelax.mail@protonmail.com
 - **Account Settings**: Use built-in data management features
 - **Response Time**: We will respond within 30 days
 
@@ -493,24 +493,24 @@ When we change this policy, you may:
 
 For privacy-related questions:
 
-- **Email**: privacy@nelax.ph
-- **Address**: [Your Business Address]
-- **Data Protection Officer (DPO)**: dpo@nelax.ph (when appointed)
+- **Email**: [Privacy Inquiries](<mailto:nelax.mail@protonmail.com?subject=Privacy%20Inquiries%20|%20(Don't%20remove%20this%20subject%20unknown%20subject%20will%20be%20declined)>)
+- **Address**: Metro Manila, Philippines
+- **Data Protection Officer (DPO)**: markocampos.mail@gmail.com
 
 ### 12.2 General Inquiries
 
 For general questions:
 
-- **Support**: support@nelax.ph
-- **Website**: https://nelax.ph
+- **Support**: [General Inquiries](<mailto:nelax.mail@protonmail.com?subject=General%20Inquiries%20|%20(Don't%20remove%20this%20subject%20unknown%20subject%20will%20be%20declined)>)
+- **Website**: -still in progress-
 - **Privacy Page**: /privacy
 
 ### 12.3 Reporting Issues
 
 To report privacy or data security issues:
 
-- **Security Team**: security@nelax.ph
-- **DPO Contact**: dpo@nelax.ph (when appointed)
+- **Security Team**: [Privacy Mail](<mailto:nelax.mail@protonmail.com?subject=Reporting%20Issues%20|%20(Don't%20remove%20this%20subject%20unknown%20subject%20will%20be%20declined)>)
+- **DPO Contact**: markocampos.mail@gmail.com
 - **Response Time**: Within 48 hours
 
 ### 12.4 Your Rights in the Philippines

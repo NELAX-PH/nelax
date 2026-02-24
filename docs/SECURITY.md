@@ -229,7 +229,7 @@ Each service provider maintains their own security policies which can be reviewe
 
 For security-related inquiries:
 
-- **Email**: security@nelax.ph
+- **Email**: [Security Team Mail](<mailto:nelax.mail@protonmail.com?subject=Priority%20-%20Security%20|%20(Don't%20remove%20this%20subject%20unknown%20subject%20will%20be%20declined)>)
 - **GitHub Security Advisory**: [Create security advisory]
 - **PGP Key**: Available on request (for sensitive communications)
 
@@ -237,8 +237,8 @@ For security-related inquiries:
 
 For bugs, feature requests, or non-security issues:
 
-- **GitHub Issues**: [Create an issue] (https://github.com/[your-org]/nelax/issues)
-- **Support**: support@nelax.ph
+- **GitHub Issues**: [Create an issue](https://github.com/NELAX-PH/nelax/issues)
+- **Support**: [General Inquiries](<mailto:nelax.mail@protonmail.com?subject=General%20Inquiries%20|%20(Don't%20remove%20this%20subject%20unknown%20subject%20will%20be%20declined)>)
 
 ## Resources
 
